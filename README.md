@@ -5,6 +5,6 @@ This file is include the 3D CAD, firmware ,Simplify3D fff .
 Firmware is based marlin-firmware and customized.
 .FFF  for Simplify3D
 
-
+物品リスト is BOM file
 
 video : https://vimeo.com/286761862
